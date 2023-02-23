@@ -12,14 +12,14 @@ volumes:
     driver_opts:
       type: none
       o: bind
-      device: /home/akarabay/data/wp
+      device: /home/saozcan/data/wp
   db:
     driver: local
     name: db_volume
     driver_opts:
       type: none
       o: bind
-      device: /home/akarabay/data/db
+      device: /home/saozcan/data/db
 
 services:
  
