@@ -80,7 +80,7 @@ expire_logs_days        = 10
 
 #
 # * Security Features
-#
+# *
 # Read the manual, too, if you want chroot!
 #chroot = /var/lib/mysql/
 #
